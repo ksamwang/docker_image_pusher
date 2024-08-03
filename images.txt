@@ -7,3 +7,6 @@ kuaifan/fileview:4.1.0-SNAPSHOT-RC4
 jgraph/drawio:16.6.1
 jgraph/export-server
 nextcloud
+registry.fit2cloud.com/halo/halo:2.18
+postgres:15.4
+mysql:8.1.0
