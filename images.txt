@@ -10,3 +10,4 @@ nextcloud
 registry.fit2cloud.com/halo/halo:2.18
 postgres:15.4
 mysql:8.1.0
+mzz2017/v2raya
